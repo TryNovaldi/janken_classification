@@ -1,0 +1,3 @@
+0 gunting
+1 batu
+2 kertas
